@@ -4,3 +4,4 @@ a = 12
 b = 2
 print("kecskemét")
 print("feketék")
+feketek = 10000
