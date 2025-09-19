@@ -7,3 +7,4 @@ print("feketék")
 feketek = 10000
 c = True
 d = "söveg"
+print("gg")
