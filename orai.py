@@ -1,6 +1,6 @@
 print("orai munka")
-nev="kis Pista"
-a = 12
+nev="Nagy Pista"
+a = 13
 b = 2
 print("kecskemét")
 print("feketék")
