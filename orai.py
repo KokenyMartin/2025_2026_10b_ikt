@@ -10,3 +10,4 @@ e = 12
 d = "söveg"
 print("f")
 print("gg")
+kristof = cigany
