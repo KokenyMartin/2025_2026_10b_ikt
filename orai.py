@@ -11,3 +11,4 @@ d = "söveg"
 print("f")
 print("gg")
 kristof = cigany
+# 1
